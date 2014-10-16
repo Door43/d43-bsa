@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bsa:home|Door43 (bsa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bsa|d43-bsa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bsa/archive/master.zip|d43-bsa.zip]]
+
+**Recent Changes**
+{{changes>ns = bsa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bsa|Ethnologue data]]
+
